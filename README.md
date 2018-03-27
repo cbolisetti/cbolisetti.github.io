@@ -1,2 +1,2 @@
-# chandubolisetti.github.io
+# chandu-bolisetti.github.io
 Chandu Bolisetti's Website
